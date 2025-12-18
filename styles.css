@@ -1048,3 +1048,15 @@ p {
 }
 }
   
+.modal-message {
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.modal-message--success {
+  color: #0d7a4f;
+}
+
+.modal-message--error {
+  color: #b3261e;
+}

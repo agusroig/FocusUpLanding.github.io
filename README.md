@@ -25,7 +25,7 @@ Sitio web institucional para **Focus Up**, diseñado para presentar la propuesta
 ## Cómo ver el sitio
 
 1. Clonar el repositorio:
-git clone https://github.com/TU-USUARIO/TU-REPO.git
+git clone https://github.com/agusroig/FocusUpLanding.git
 
 2. Abrir `index.html` en el navegador  
 - O servir el proyecto con cualquier servidor estático (por ejemplo, con la extensión Live Server de VS Code).
