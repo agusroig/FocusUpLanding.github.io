@@ -79,7 +79,7 @@ text
 Step 2: Upload PHPMailer
 
 Create folder `phpmailer` next to `contact.php`:
-
+```
 your-website/
 ├── contact.php
 ├── phpmailer/
@@ -88,7 +88,7 @@ your-website/
 │       ├── SMTP.php
 │       └── Exception.php
 └── index.html
-
+```
 
 text
 
